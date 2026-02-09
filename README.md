@@ -49,7 +49,7 @@ Customer-Spending-Prediction/
 ├── spending_model.pkl
 ├── scaler.pkl
 ├── run.bat
-├── sample_input.csv
+├── new_customers.csv
 ├── requirement.txt
 └── README.md
 ```
