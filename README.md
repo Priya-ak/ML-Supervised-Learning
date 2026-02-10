@@ -46,6 +46,7 @@ The trained model and scaler are saved using **Pickle** and loaded directly in t
 Customer-Spending-Prediction/
 │
 ├── app.py
+|__ linear_regression.ipynb
 ├── spending_model.pkl
 ├── scaler.pkl
 ├── run.bat
